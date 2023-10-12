@@ -1,5 +1,5 @@
-quality_points = float(input("How many quality points do you have? ")) # 134.32
-gpa_hours = int(input("How many GPA hours do you have? ")) # 35
+quality_points = float(input("How many quality points do you have? "))
+gpa_hours = int(input("How many GPA hours do you have? "))
 
 course_name = []
 credits = []
