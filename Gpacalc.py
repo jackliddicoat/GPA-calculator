@@ -23,7 +23,7 @@ while answer == "y":
     elif let_grade == "B-":
         grade.append(2.67)
     elif let_grade == "C+":
-        grade.appedn(2.33)
+        grade.append(2.33)
     elif let_grade == "C":
         grade.append(2.00)
     elif let_grade == "C-":
